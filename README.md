@@ -14,4 +14,4 @@ If you find any mistake feel free to open an issue or DM me on [slack (@geraldng
 Markdown files edited with [MacDown][]
 
 [slack (@geraldng)]: https://orbital2015.slack.com
-[MacDown][]: http://macdown.uranusjr.com/
+[MacDown]: http://macdown.uranusjr.com/
