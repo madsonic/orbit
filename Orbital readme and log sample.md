@@ -51,6 +51,7 @@ We wished to have been able to complete some form of user testing but we ran out
 
 #### Technical
 [How to extract infinity stone from Loki's scepter?][]<br>
+[Markdown guide][]<br>
 #### Staying alive
 [How to not piss your co-workers off][]<br>
 [How to survive Hulk][]
@@ -61,6 +62,7 @@ We wished to have been able to complete some form of user testing but we ran out
 <!-- links -->
 [Presentation]: https://www.youtube.com/watch?v=JAUoeqvedMo
 [How to extract infinity stone from Loki's scepter?]: http://en.wikipedia.org/wiki/Infinity_Gems
+[Markdown guide]: https://guides.github.com/features/mastering-markdown/
 [How to not piss your co-workers off]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [How to survive Hulk]: https://www.youtube.com/watch?v=mjx-02XWuzk
 [sample log]: https://docs.google.com/spreadsheets/d/16DoFqCnEItfvpRUloJWSOAIK1lMIedCda2Vt4Fi2mtk/edit?usp=sharing
