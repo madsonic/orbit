@@ -13,5 +13,9 @@ If you find any mistake feel free to open an issue or DM me on [slack (@geraldng
 ### Acknowledgement
 Markdown files edited with [MacDown][]
 
+### Help with markdown syntax
+[Markdown guide][]
+
 [slack (@geraldng)]: https://orbital2015.slack.com
 [MacDown]: http://macdown.uranusjr.com/
+[Markdown guide]: https://guides.github.com/features/mastering-markdown/
